@@ -1,0 +1,32 @@
+{
+  "name": "quant-ui-cli",
+  "version": "1.0.0",
+  "description": "A CLI for minimalistic, CSS-only component library for building modern and elegant user interfaces.",
+  "main": "cli.js",
+  "bin": {
+    "quant": "./cli.js"
+  },
+  "files": [
+    "cli.js"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "component",
+    "library",
+    "css",
+    "minimalistic",
+    "style",
+    "ui",
+    "cli",
+    "react"
+  ],
+  "type": "module",
+  "author": "Nikola Dojcinovic",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "node-fetch": "^3.3.2"
+  }
+}
