@@ -13,7 +13,15 @@ QuantUI CLI is a command-line tool that allows React developers to quickly insta
 
 ## 📦 Installation & Usage
 
-QuantUI CLI works without installation. Simply use npx to execute commands.
+### Install QuantUI CLI
+
+To install the QuantUI CLI run:
+
+```bash
+npm i quant-ui-cli
+```
+
+Now, you can use the CLI to install components.
 
 ### Add a Component
 
@@ -62,5 +70,3 @@ We welcome contributions! If you'd like to add new components or improve the CLI
 
 📜 License
 QuantUI is open-source and licensed under the MIT License.
-
-Let me know if you need further refinements! 🚀
